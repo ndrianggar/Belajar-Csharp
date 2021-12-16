@@ -1,0 +1,16 @@
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\bin\Debug\net5.0\variableDataTypeCasting.exe
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\bin\Debug\net5.0\variableDataTypeCasting.deps.json
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\bin\Debug\net5.0\variableDataTypeCasting.runtimeconfig.json
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\bin\Debug\net5.0\variableDataTypeCasting.runtimeconfig.dev.json
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\bin\Debug\net5.0\variableDataTypeCasting.dll
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\bin\Debug\net5.0\ref\variableDataTypeCasting.dll
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\bin\Debug\net5.0\variableDataTypeCasting.pdb
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\obj\Debug\net5.0\variableDataTypeCasting.csproj.AssemblyReference.cache
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\obj\Debug\net5.0\variableDataTypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\obj\Debug\net5.0\variableDataTypeCasting.AssemblyInfoInputs.cache
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\obj\Debug\net5.0\variableDataTypeCasting.AssemblyInfo.cs
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\obj\Debug\net5.0\variableDataTypeCasting.csproj.CoreCompileInputs.cache
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\obj\Debug\net5.0\variableDataTypeCasting.dll
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\obj\Debug\net5.0\ref\variableDataTypeCasting.dll
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\obj\Debug\net5.0\variableDataTypeCasting.pdb
+D:\Learning\#C\variableDataTypesCasting\variableDataTypeCasting\variableDataTypeCasting\obj\Debug\net5.0\variableDataTypeCasting.genruntimeconfig.cache
