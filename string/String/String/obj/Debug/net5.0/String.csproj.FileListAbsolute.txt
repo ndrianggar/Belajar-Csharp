@@ -1,0 +1,16 @@
+D:\Learning\#C\string\String\String\bin\Debug\net5.0\String.exe
+D:\Learning\#C\string\String\String\bin\Debug\net5.0\String.deps.json
+D:\Learning\#C\string\String\String\bin\Debug\net5.0\String.runtimeconfig.json
+D:\Learning\#C\string\String\String\bin\Debug\net5.0\String.runtimeconfig.dev.json
+D:\Learning\#C\string\String\String\bin\Debug\net5.0\String.dll
+D:\Learning\#C\string\String\String\bin\Debug\net5.0\ref\String.dll
+D:\Learning\#C\string\String\String\bin\Debug\net5.0\String.pdb
+D:\Learning\#C\string\String\String\obj\Debug\net5.0\String.csproj.AssemblyReference.cache
+D:\Learning\#C\string\String\String\obj\Debug\net5.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\string\String\String\obj\Debug\net5.0\String.AssemblyInfoInputs.cache
+D:\Learning\#C\string\String\String\obj\Debug\net5.0\String.AssemblyInfo.cs
+D:\Learning\#C\string\String\String\obj\Debug\net5.0\String.csproj.CoreCompileInputs.cache
+D:\Learning\#C\string\String\String\obj\Debug\net5.0\String.dll
+D:\Learning\#C\string\String\String\obj\Debug\net5.0\ref\String.dll
+D:\Learning\#C\string\String\String\obj\Debug\net5.0\String.pdb
+D:\Learning\#C\string\String\String\obj\Debug\net5.0\String.genruntimeconfig.cache
