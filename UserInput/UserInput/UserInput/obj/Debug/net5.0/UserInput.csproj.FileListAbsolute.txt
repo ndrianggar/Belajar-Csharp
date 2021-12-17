@@ -1,0 +1,16 @@
+D:\Learning\#C\UserInput\UserInput\UserInput\bin\Debug\net5.0\UserInput.exe
+D:\Learning\#C\UserInput\UserInput\UserInput\bin\Debug\net5.0\UserInput.deps.json
+D:\Learning\#C\UserInput\UserInput\UserInput\bin\Debug\net5.0\UserInput.runtimeconfig.json
+D:\Learning\#C\UserInput\UserInput\UserInput\bin\Debug\net5.0\UserInput.runtimeconfig.dev.json
+D:\Learning\#C\UserInput\UserInput\UserInput\bin\Debug\net5.0\UserInput.dll
+D:\Learning\#C\UserInput\UserInput\UserInput\bin\Debug\net5.0\ref\UserInput.dll
+D:\Learning\#C\UserInput\UserInput\UserInput\bin\Debug\net5.0\UserInput.pdb
+D:\Learning\#C\UserInput\UserInput\UserInput\obj\Debug\net5.0\UserInput.csproj.AssemblyReference.cache
+D:\Learning\#C\UserInput\UserInput\UserInput\obj\Debug\net5.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\UserInput\UserInput\UserInput\obj\Debug\net5.0\UserInput.AssemblyInfoInputs.cache
+D:\Learning\#C\UserInput\UserInput\UserInput\obj\Debug\net5.0\UserInput.AssemblyInfo.cs
+D:\Learning\#C\UserInput\UserInput\UserInput\obj\Debug\net5.0\UserInput.csproj.CoreCompileInputs.cache
+D:\Learning\#C\UserInput\UserInput\UserInput\obj\Debug\net5.0\UserInput.dll
+D:\Learning\#C\UserInput\UserInput\UserInput\obj\Debug\net5.0\ref\UserInput.dll
+D:\Learning\#C\UserInput\UserInput\UserInput\obj\Debug\net5.0\UserInput.pdb
+D:\Learning\#C\UserInput\UserInput\UserInput\obj\Debug\net5.0\UserInput.genruntimeconfig.cache
