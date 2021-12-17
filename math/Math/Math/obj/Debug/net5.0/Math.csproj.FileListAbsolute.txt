@@ -1,0 +1,16 @@
+D:\Learning\#C\math\Math\Math\bin\Debug\net5.0\Math.exe
+D:\Learning\#C\math\Math\Math\bin\Debug\net5.0\Math.deps.json
+D:\Learning\#C\math\Math\Math\bin\Debug\net5.0\Math.runtimeconfig.json
+D:\Learning\#C\math\Math\Math\bin\Debug\net5.0\Math.runtimeconfig.dev.json
+D:\Learning\#C\math\Math\Math\bin\Debug\net5.0\Math.dll
+D:\Learning\#C\math\Math\Math\bin\Debug\net5.0\ref\Math.dll
+D:\Learning\#C\math\Math\Math\bin\Debug\net5.0\Math.pdb
+D:\Learning\#C\math\Math\Math\obj\Debug\net5.0\Math.csproj.AssemblyReference.cache
+D:\Learning\#C\math\Math\Math\obj\Debug\net5.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\math\Math\Math\obj\Debug\net5.0\Math.AssemblyInfoInputs.cache
+D:\Learning\#C\math\Math\Math\obj\Debug\net5.0\Math.AssemblyInfo.cs
+D:\Learning\#C\math\Math\Math\obj\Debug\net5.0\Math.csproj.CoreCompileInputs.cache
+D:\Learning\#C\math\Math\Math\obj\Debug\net5.0\Math.dll
+D:\Learning\#C\math\Math\Math\obj\Debug\net5.0\ref\Math.dll
+D:\Learning\#C\math\Math\Math\obj\Debug\net5.0\Math.pdb
+D:\Learning\#C\math\Math\Math\obj\Debug\net5.0\Math.genruntimeconfig.cache
