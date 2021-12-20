@@ -1,0 +1,16 @@
+D:\Learning\#C\Array\Array\Array\bin\Debug\net5.0\Array.exe
+D:\Learning\#C\Array\Array\Array\bin\Debug\net5.0\Array.deps.json
+D:\Learning\#C\Array\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+D:\Learning\#C\Array\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+D:\Learning\#C\Array\Array\Array\bin\Debug\net5.0\Array.dll
+D:\Learning\#C\Array\Array\Array\bin\Debug\net5.0\ref\Array.dll
+D:\Learning\#C\Array\Array\Array\bin\Debug\net5.0\Array.pdb
+D:\Learning\#C\Array\Array\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+D:\Learning\#C\Array\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\Array\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+D:\Learning\#C\Array\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+D:\Learning\#C\Array\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+D:\Learning\#C\Array\Array\Array\obj\Debug\net5.0\Array.dll
+D:\Learning\#C\Array\Array\Array\obj\Debug\net5.0\ref\Array.dll
+D:\Learning\#C\Array\Array\Array\obj\Debug\net5.0\Array.pdb
+D:\Learning\#C\Array\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
