@@ -1,0 +1,16 @@
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\bin\Debug\net5.0\ClassMembers.exe
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\bin\Debug\net5.0\ClassMembers.deps.json
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\bin\Debug\net5.0\ClassMembers.runtimeconfig.json
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\bin\Debug\net5.0\ClassMembers.runtimeconfig.dev.json
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\bin\Debug\net5.0\ClassMembers.dll
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\bin\Debug\net5.0\ref\ClassMembers.dll
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\bin\Debug\net5.0\ClassMembers.pdb
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\obj\Debug\net5.0\ClassMembers.csproj.AssemblyReference.cache
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\obj\Debug\net5.0\ClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\obj\Debug\net5.0\ClassMembers.AssemblyInfoInputs.cache
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\obj\Debug\net5.0\ClassMembers.AssemblyInfo.cs
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\obj\Debug\net5.0\ClassMembers.csproj.CoreCompileInputs.cache
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\obj\Debug\net5.0\ClassMembers.dll
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\obj\Debug\net5.0\ref\ClassMembers.dll
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\obj\Debug\net5.0\ClassMembers.pdb
+D:\Learning\#C\classMember\ClassMembers\ClassMembers\obj\Debug\net5.0\ClassMembers.genruntimeconfig.cache
