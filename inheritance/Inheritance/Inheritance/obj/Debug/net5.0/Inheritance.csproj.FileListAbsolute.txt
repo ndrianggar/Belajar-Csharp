@@ -1,0 +1,16 @@
+D:\Learning\#C\inheritance\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\Learning\#C\inheritance\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\Learning\#C\inheritance\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\Learning\#C\inheritance\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\Learning\#C\inheritance\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\Learning\#C\inheritance\Inheritance\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+D:\Learning\#C\inheritance\Inheritance\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\Learning\#C\inheritance\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\Learning\#C\inheritance\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\inheritance\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\Learning\#C\inheritance\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\Learning\#C\inheritance\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Learning\#C\inheritance\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\Learning\#C\inheritance\Inheritance\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+D:\Learning\#C\inheritance\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\Learning\#C\inheritance\Inheritance\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
