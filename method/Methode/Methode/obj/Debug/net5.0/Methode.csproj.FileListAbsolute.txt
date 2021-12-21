@@ -1,0 +1,16 @@
+D:\Learning\#C\method\Methode\Methode\obj\Debug\net5.0\Methode.csproj.AssemblyReference.cache
+D:\Learning\#C\method\Methode\Methode\obj\Debug\net5.0\Methode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\method\Methode\Methode\obj\Debug\net5.0\Methode.AssemblyInfoInputs.cache
+D:\Learning\#C\method\Methode\Methode\obj\Debug\net5.0\Methode.AssemblyInfo.cs
+D:\Learning\#C\method\Methode\Methode\obj\Debug\net5.0\Methode.csproj.CoreCompileInputs.cache
+D:\Learning\#C\method\Methode\Methode\bin\Debug\net5.0\Methode.exe
+D:\Learning\#C\method\Methode\Methode\bin\Debug\net5.0\Methode.deps.json
+D:\Learning\#C\method\Methode\Methode\bin\Debug\net5.0\Methode.runtimeconfig.json
+D:\Learning\#C\method\Methode\Methode\bin\Debug\net5.0\Methode.runtimeconfig.dev.json
+D:\Learning\#C\method\Methode\Methode\bin\Debug\net5.0\Methode.dll
+D:\Learning\#C\method\Methode\Methode\bin\Debug\net5.0\ref\Methode.dll
+D:\Learning\#C\method\Methode\Methode\bin\Debug\net5.0\Methode.pdb
+D:\Learning\#C\method\Methode\Methode\obj\Debug\net5.0\Methode.dll
+D:\Learning\#C\method\Methode\Methode\obj\Debug\net5.0\ref\Methode.dll
+D:\Learning\#C\method\Methode\Methode\obj\Debug\net5.0\Methode.pdb
+D:\Learning\#C\method\Methode\Methode\obj\Debug\net5.0\Methode.genruntimeconfig.cache
