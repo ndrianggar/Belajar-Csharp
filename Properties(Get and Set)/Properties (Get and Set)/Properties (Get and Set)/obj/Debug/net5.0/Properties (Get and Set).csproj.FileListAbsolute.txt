@@ -1,0 +1,16 @@
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\bin\Debug\net5.0\Properties (Get and Set).exe
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\bin\Debug\net5.0\Properties (Get and Set).deps.json
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\bin\Debug\net5.0\Properties (Get and Set).runtimeconfig.json
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\bin\Debug\net5.0\Properties (Get and Set).runtimeconfig.dev.json
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\bin\Debug\net5.0\Properties (Get and Set).dll
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\bin\Debug\net5.0\ref\Properties (Get and Set).dll
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\bin\Debug\net5.0\Properties (Get and Set).pdb
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\obj\Debug\net5.0\Properties (Get and Set).csproj.AssemblyReference.cache
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\obj\Debug\net5.0\Properties (Get and Set).GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\obj\Debug\net5.0\Properties (Get and Set).AssemblyInfoInputs.cache
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\obj\Debug\net5.0\Properties (Get and Set).AssemblyInfo.cs
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\obj\Debug\net5.0\Properties (Get and Set).csproj.CoreCompileInputs.cache
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\obj\Debug\net5.0\Properties (Get and Set).dll
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\obj\Debug\net5.0\ref\Properties (Get and Set).dll
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\obj\Debug\net5.0\Properties (Get and Set).pdb
+D:\Learning\#C\Properties(Get and Set)\Properties (Get and Set)\Properties (Get and Set)\obj\Debug\net5.0\Properties (Get and Set).genruntimeconfig.cache
