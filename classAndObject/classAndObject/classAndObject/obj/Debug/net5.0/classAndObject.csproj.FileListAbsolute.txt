@@ -1,0 +1,16 @@
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\bin\Debug\net5.0\classAndObject.exe
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\bin\Debug\net5.0\classAndObject.deps.json
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\bin\Debug\net5.0\classAndObject.runtimeconfig.json
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\bin\Debug\net5.0\classAndObject.runtimeconfig.dev.json
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\bin\Debug\net5.0\classAndObject.dll
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\bin\Debug\net5.0\ref\classAndObject.dll
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\bin\Debug\net5.0\classAndObject.pdb
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\obj\Debug\net5.0\classAndObject.csproj.AssemblyReference.cache
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\obj\Debug\net5.0\classAndObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\obj\Debug\net5.0\classAndObject.AssemblyInfoInputs.cache
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\obj\Debug\net5.0\classAndObject.AssemblyInfo.cs
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\obj\Debug\net5.0\classAndObject.csproj.CoreCompileInputs.cache
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\obj\Debug\net5.0\classAndObject.dll
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\obj\Debug\net5.0\ref\classAndObject.dll
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\obj\Debug\net5.0\classAndObject.pdb
+D:\Learning\#C\classAndObject\classAndObject\classAndObject\obj\Debug\net5.0\classAndObject.genruntimeconfig.cache
