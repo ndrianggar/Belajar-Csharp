@@ -1,0 +1,16 @@
+D:\Learning\#C\constructor\constructor\constructor\bin\Debug\net5.0\constructor.exe
+D:\Learning\#C\constructor\constructor\constructor\bin\Debug\net5.0\constructor.deps.json
+D:\Learning\#C\constructor\constructor\constructor\bin\Debug\net5.0\constructor.runtimeconfig.json
+D:\Learning\#C\constructor\constructor\constructor\bin\Debug\net5.0\constructor.runtimeconfig.dev.json
+D:\Learning\#C\constructor\constructor\constructor\bin\Debug\net5.0\constructor.dll
+D:\Learning\#C\constructor\constructor\constructor\bin\Debug\net5.0\ref\constructor.dll
+D:\Learning\#C\constructor\constructor\constructor\bin\Debug\net5.0\constructor.pdb
+D:\Learning\#C\constructor\constructor\constructor\obj\Debug\net5.0\constructor.csproj.AssemblyReference.cache
+D:\Learning\#C\constructor\constructor\constructor\obj\Debug\net5.0\constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\constructor\constructor\constructor\obj\Debug\net5.0\constructor.AssemblyInfoInputs.cache
+D:\Learning\#C\constructor\constructor\constructor\obj\Debug\net5.0\constructor.AssemblyInfo.cs
+D:\Learning\#C\constructor\constructor\constructor\obj\Debug\net5.0\constructor.csproj.CoreCompileInputs.cache
+D:\Learning\#C\constructor\constructor\constructor\obj\Debug\net5.0\constructor.dll
+D:\Learning\#C\constructor\constructor\constructor\obj\Debug\net5.0\ref\constructor.dll
+D:\Learning\#C\constructor\constructor\constructor\obj\Debug\net5.0\constructor.pdb
+D:\Learning\#C\constructor\constructor\constructor\obj\Debug\net5.0\constructor.genruntimeconfig.cache
