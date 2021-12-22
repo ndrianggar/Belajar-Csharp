@@ -1,0 +1,16 @@
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\bin\Debug\net5.0\AbstractClassesMethods.exe
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\bin\Debug\net5.0\AbstractClassesMethods.deps.json
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\bin\Debug\net5.0\AbstractClassesMethods.runtimeconfig.json
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\bin\Debug\net5.0\AbstractClassesMethods.runtimeconfig.dev.json
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\bin\Debug\net5.0\AbstractClassesMethods.dll
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\bin\Debug\net5.0\ref\AbstractClassesMethods.dll
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\bin\Debug\net5.0\AbstractClassesMethods.pdb
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\obj\Debug\net5.0\AbstractClassesMethods.csproj.AssemblyReference.cache
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\obj\Debug\net5.0\AbstractClassesMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\obj\Debug\net5.0\AbstractClassesMethods.AssemblyInfoInputs.cache
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\obj\Debug\net5.0\AbstractClassesMethods.AssemblyInfo.cs
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\obj\Debug\net5.0\AbstractClassesMethods.csproj.CoreCompileInputs.cache
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\obj\Debug\net5.0\AbstractClassesMethods.dll
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\obj\Debug\net5.0\ref\AbstractClassesMethods.dll
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\obj\Debug\net5.0\AbstractClassesMethods.pdb
+D:\Learning\#C\AbstractClassesMethods\AbstractClassesMethods\AbstractClassesMethods\obj\Debug\net5.0\AbstractClassesMethods.genruntimeconfig.cache
