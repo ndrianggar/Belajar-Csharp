@@ -1,0 +1,16 @@
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\bin\Debug\net5.0\TryCatchExcepcionts.exe
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\bin\Debug\net5.0\TryCatchExcepcionts.deps.json
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\bin\Debug\net5.0\TryCatchExcepcionts.runtimeconfig.json
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\bin\Debug\net5.0\TryCatchExcepcionts.runtimeconfig.dev.json
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\bin\Debug\net5.0\TryCatchExcepcionts.dll
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\bin\Debug\net5.0\ref\TryCatchExcepcionts.dll
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\bin\Debug\net5.0\TryCatchExcepcionts.pdb
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\obj\Debug\net5.0\TryCatchExcepcionts.csproj.AssemblyReference.cache
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\obj\Debug\net5.0\TryCatchExcepcionts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\obj\Debug\net5.0\TryCatchExcepcionts.AssemblyInfoInputs.cache
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\obj\Debug\net5.0\TryCatchExcepcionts.AssemblyInfo.cs
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\obj\Debug\net5.0\TryCatchExcepcionts.csproj.CoreCompileInputs.cache
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\obj\Debug\net5.0\TryCatchExcepcionts.dll
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\obj\Debug\net5.0\ref\TryCatchExcepcionts.dll
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\obj\Debug\net5.0\TryCatchExcepcionts.pdb
+D:\Learning\#C\TryCatchExcepcionts\TryCatchExcepcionts\TryCatchExcepcionts\obj\Debug\net5.0\TryCatchExcepcionts.genruntimeconfig.cache

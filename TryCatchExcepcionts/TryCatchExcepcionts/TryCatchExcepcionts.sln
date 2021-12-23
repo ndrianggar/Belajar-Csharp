@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchExcepcionts", "TryCatchExcepcionts\TryCatchExcepcionts.csproj", "{3A6BC9D7-4968-40FD-8AD9-BF860FFBE5BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A6BC9D7-4968-40FD-8AD9-BF860FFBE5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6BC9D7-4968-40FD-8AD9-BF860FFBE5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6BC9D7-4968-40FD-8AD9-BF860FFBE5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6BC9D7-4968-40FD-8AD9-BF860FFBE5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB688ECE-0F5F-47E2-9652-CBA875660072}
+	EndGlobalSection
+EndGlobal
