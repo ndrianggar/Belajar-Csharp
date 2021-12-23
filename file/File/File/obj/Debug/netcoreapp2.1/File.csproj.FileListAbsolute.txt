@@ -1,0 +1,12 @@
+D:\Learning\#C\file\File\File\obj\Debug\netcoreapp2.1\File.csproj.AssemblyReference.cache
+D:\Learning\#C\file\File\File\obj\Debug\netcoreapp2.1\File.AssemblyInfoInputs.cache
+D:\Learning\#C\file\File\File\obj\Debug\netcoreapp2.1\File.AssemblyInfo.cs
+D:\Learning\#C\file\File\File\obj\Debug\netcoreapp2.1\File.csproj.CoreCompileInputs.cache
+D:\Learning\#C\file\File\File\bin\Debug\netcoreapp2.1\File.deps.json
+D:\Learning\#C\file\File\File\bin\Debug\netcoreapp2.1\File.runtimeconfig.json
+D:\Learning\#C\file\File\File\bin\Debug\netcoreapp2.1\File.runtimeconfig.dev.json
+D:\Learning\#C\file\File\File\bin\Debug\netcoreapp2.1\File.dll
+D:\Learning\#C\file\File\File\bin\Debug\netcoreapp2.1\File.pdb
+D:\Learning\#C\file\File\File\obj\Debug\netcoreapp2.1\File.dll
+D:\Learning\#C\file\File\File\obj\Debug\netcoreapp2.1\File.pdb
+D:\Learning\#C\file\File\File\obj\Debug\netcoreapp2.1\File.genruntimeconfig.cache
