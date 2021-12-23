@@ -36,6 +36,20 @@ namespace Enum
 
             int myMonts = (int) Months.Desember;
             Console.WriteLine(myMonts);
+
+            switch (myVar)
+            {
+                case University.Lipia:
+                    Console.WriteLine("Lipia");
+                    break;
+                case University.Al_Azhar:
+                    Console.WriteLine("Al-Azhar");
+                    break;
+
+                case University.UIM:
+                    Console.WriteLine("UIM");
+                    break;
+            }
         }
     }
 }
