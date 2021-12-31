@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RestAPI",
+    "\\RestAPI\\RestAPI",
+    "\\RestAPI\\RestAPI\\Controllers",
+    "\\RestAPI\\RestAPI\\Models"
+  ],
+  "SelectedNode": "\\RestAPI\\RestAPI\\Models\\Country.cs",
+  "PreviewInSolutionExplorer": false
+}
