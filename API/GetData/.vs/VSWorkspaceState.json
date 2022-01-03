@@ -6,6 +6,6 @@
     "\\GetDataAPI\\GetDataAPI\\Controllers",
     "\\GetDataAPI\\GetDataAPI\\Models"
   ],
-  "SelectedNode": "\\GetDataAPI\\GetDataAPI.sln",
+  "SelectedNode": "\\GetDataAPI\\GetDataAPI\\Controllers\\SantriController.cs",
   "PreviewInSolutionExplorer": false
 }

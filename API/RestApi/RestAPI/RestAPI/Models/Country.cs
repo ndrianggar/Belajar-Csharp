@@ -7,9 +7,9 @@ namespace RestAPI.Models
 {
     public class Country
     {
-        public int IdCountry { get; set; }
+        public int Id { get; set; }
 
-        public string NameCountry { get; set; }
+        public string Name { get; set; }
 
         public string Language { get; set; }
 

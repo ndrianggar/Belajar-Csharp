@@ -12,14 +12,34 @@ namespace RestAPI.Controllers
     [ApiController]
     public class CountriesController : ControllerBase
     {
-        private List<Country> countries = new List<Country>() {
-        new Country(){IdCountry = 0, NameCountry="Indonesian", Language = "Indonesia" },
-        new Country(){IdCountry=0, NameCountry="Saudi Arabia", Language ="Arabic"}
+
+        // error tidak mau masuk data pada list karena method tidak pakai keyword static
+        private static List<Country> countries = new List<Country>() {
+        new Country(){Id = 0, Name="Indonesian", Language = "Indonesia" },
+        new Country(){Id =1, Name="England", Language ="Inggris"}
       };
         [HttpGet]
         public IEnumerable<Country> GET()
         {
             return countries;
+        }
+
+        [HttpPost]
+        public void Post([FromBody] Country country)
+        {
+            countries.Add(country);
+        }
+
+        [HttpPut]
+        public void Put(int id, [FromBody] Country country)
+        {
+            countries[id] = country;
+        }
+
+        [HttpDelete]
+        public void Delete(int Id)
+        {
+            countries.RemoveAt(Id);
         }
     }
 }

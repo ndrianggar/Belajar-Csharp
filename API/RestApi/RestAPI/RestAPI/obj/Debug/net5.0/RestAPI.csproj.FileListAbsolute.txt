@@ -11,7 +11,6 @@ D:\Learning\#C\API\RestApi\RestAPI\RestAPI\bin\Debug\net5.0\Microsoft.OpenApi.dl
 D:\Learning\#C\API\RestApi\RestAPI\RestAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Learning\#C\API\RestApi\RestAPI\RestAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Learning\#C\API\RestApi\RestAPI\RestAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Learning\#C\API\RestApi\RestAPI\RestAPI\obj\Debug\net5.0\RestAPI.csproj.AssemblyReference.cache
 D:\Learning\#C\API\RestApi\RestAPI\RestAPI\obj\Debug\net5.0\RestAPI.GeneratedMSBuildEditorConfig.editorconfig
 D:\Learning\#C\API\RestApi\RestAPI\RestAPI\obj\Debug\net5.0\RestAPI.AssemblyInfoInputs.cache
 D:\Learning\#C\API\RestApi\RestAPI\RestAPI\obj\Debug\net5.0\RestAPI.AssemblyInfo.cs
@@ -56,3 +55,4 @@ D:\Learning\#C\API\RestApiGet\RestAPI\RestAPI\obj\Debug\net5.0\RestAPI.dll
 D:\Learning\#C\API\RestApiGet\RestAPI\RestAPI\obj\Debug\net5.0\ref\RestAPI.dll
 D:\Learning\#C\API\RestApiGet\RestAPI\RestAPI\obj\Debug\net5.0\RestAPI.pdb
 D:\Learning\#C\API\RestApiGet\RestAPI\RestAPI\obj\Debug\net5.0\RestAPI.genruntimeconfig.cache
+D:\Learning\#C\API\RestApi\RestAPI\RestAPI\obj\Debug\net5.0\RestAPI.csproj.AssemblyReference.cache
