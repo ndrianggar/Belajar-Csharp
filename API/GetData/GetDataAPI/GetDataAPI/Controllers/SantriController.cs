@@ -12,7 +12,7 @@ namespace GetDataAPI.Controllers
     [ApiController]
     public class SantriController : ControllerBase
     {
-        private List<Santri> santries = new List<Santri>()
+        private static List<Santri> santries = new List<Santri>()
         {
             new Santri() {IdSantri = 0, NamaSantri = "Muhammad", Kelas = "Tahfiz" },
             new Santri() {IdSantri = 1, NamaSantri = "Rudi", Kelas = "Tahsin" },
@@ -21,6 +21,7 @@ namespace GetDataAPI.Controllers
 
         [HttpGet]
         public IEnumerable<Santri> GET()
+        {
         {
             return santries;
         }

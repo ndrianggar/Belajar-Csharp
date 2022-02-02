@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CoreBookStore",
+    "\\CoreBookStore\\CoreBookStoreWebAPI",
+    "\\CoreBookStore\\CoreBookStoreWebAPI\\Controllers",
+    "\\CoreBookStore\\CoreBookStoreWebAPI\\Models"
+  ],
+  "SelectedNode": "\\CoreBookStore\\CoreBookStore.sln",
+  "PreviewInSolutionExplorer": false
+}

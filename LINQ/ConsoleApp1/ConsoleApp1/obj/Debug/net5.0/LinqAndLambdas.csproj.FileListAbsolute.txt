@@ -1,0 +1,16 @@
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqAndLambdas.exe
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqAndLambdas.deps.json
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqAndLambdas.runtimeconfig.json
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqAndLambdas.runtimeconfig.dev.json
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqAndLambdas.dll
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\LinqAndLambdas.dll
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\LinqAndLambdas.pdb
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqAndLambdas.csproj.AssemblyReference.cache
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqAndLambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqAndLambdas.AssemblyInfoInputs.cache
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqAndLambdas.AssemblyInfo.cs
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqAndLambdas.csproj.CoreCompileInputs.cache
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqAndLambdas.dll
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\LinqAndLambdas.dll
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqAndLambdas.pdb
+D:\Learning\#C\LINQ\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\LinqAndLambdas.genruntimeconfig.cache
