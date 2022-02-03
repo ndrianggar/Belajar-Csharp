@@ -1,0 +1,16 @@
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.exe
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.deps.json
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.runtimeconfig.json
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.runtimeconfig.dev.json
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.dll
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\bin\Debug\net5.0\ref\LinqExamples.dll
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\bin\Debug\net5.0\LinqExamples.pdb
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.csproj.AssemblyReference.cache
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.AssemblyInfoInputs.cache
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.AssemblyInfo.cs
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.csproj.CoreCompileInputs.cache
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.dll
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\obj\Debug\net5.0\ref\LinqExamples.dll
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.pdb
+D:\Learning\#C\LINQ\LinqExamples\LinqExamples\obj\Debug\net5.0\LinqExamples.genruntimeconfig.cache
