@@ -1,0 +1,16 @@
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\bin\Debug\net5.0\LinqQueryOnObject.exe
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\bin\Debug\net5.0\LinqQueryOnObject.deps.json
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\bin\Debug\net5.0\LinqQueryOnObject.runtimeconfig.json
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\bin\Debug\net5.0\LinqQueryOnObject.runtimeconfig.dev.json
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\bin\Debug\net5.0\LinqQueryOnObject.dll
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\bin\Debug\net5.0\ref\LinqQueryOnObject.dll
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\bin\Debug\net5.0\LinqQueryOnObject.pdb
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\obj\Debug\net5.0\LinqQueryOnObject.csproj.AssemblyReference.cache
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\obj\Debug\net5.0\LinqQueryOnObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\obj\Debug\net5.0\LinqQueryOnObject.AssemblyInfoInputs.cache
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\obj\Debug\net5.0\LinqQueryOnObject.AssemblyInfo.cs
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\obj\Debug\net5.0\LinqQueryOnObject.csproj.CoreCompileInputs.cache
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\obj\Debug\net5.0\LinqQueryOnObject.dll
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\obj\Debug\net5.0\ref\LinqQueryOnObject.dll
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\obj\Debug\net5.0\LinqQueryOnObject.pdb
+D:\Learning\#C\LINQ\LinqQueryOnObject\LinqQueryOnObject\obj\Debug\net5.0\LinqQueryOnObject.genruntimeconfig.cache
