@@ -1,0 +1,16 @@
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\bin\Debug\net5.0\Method-Syntax.exe
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\bin\Debug\net5.0\Method-Syntax.deps.json
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\bin\Debug\net5.0\Method-Syntax.runtimeconfig.json
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\bin\Debug\net5.0\Method-Syntax.runtimeconfig.dev.json
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\bin\Debug\net5.0\Method-Syntax.dll
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\bin\Debug\net5.0\ref\Method-Syntax.dll
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\bin\Debug\net5.0\Method-Syntax.pdb
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\obj\Debug\net5.0\Method-Syntax.csproj.AssemblyReference.cache
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\obj\Debug\net5.0\Method-Syntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\obj\Debug\net5.0\Method-Syntax.AssemblyInfoInputs.cache
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\obj\Debug\net5.0\Method-Syntax.AssemblyInfo.cs
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\obj\Debug\net5.0\Method-Syntax.csproj.CoreCompileInputs.cache
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\obj\Debug\net5.0\Method-Syntax.dll
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\obj\Debug\net5.0\ref\Method-Syntax.dll
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\obj\Debug\net5.0\Method-Syntax.pdb
+D:\Learning\#C\LINQ\Method-Syntax\Method-Syntax\obj\Debug\net5.0\Method-Syntax.genruntimeconfig.cache
