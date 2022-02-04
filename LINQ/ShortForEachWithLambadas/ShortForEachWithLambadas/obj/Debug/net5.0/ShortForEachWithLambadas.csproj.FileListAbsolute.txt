@@ -1,0 +1,16 @@
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\bin\Debug\net5.0\ShortForEachWithLambadas.exe
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\bin\Debug\net5.0\ShortForEachWithLambadas.deps.json
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\bin\Debug\net5.0\ShortForEachWithLambadas.runtimeconfig.json
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\bin\Debug\net5.0\ShortForEachWithLambadas.runtimeconfig.dev.json
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\bin\Debug\net5.0\ShortForEachWithLambadas.dll
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\bin\Debug\net5.0\ref\ShortForEachWithLambadas.dll
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\bin\Debug\net5.0\ShortForEachWithLambadas.pdb
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\obj\Debug\net5.0\ShortForEachWithLambadas.csproj.AssemblyReference.cache
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\obj\Debug\net5.0\ShortForEachWithLambadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\obj\Debug\net5.0\ShortForEachWithLambadas.AssemblyInfoInputs.cache
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\obj\Debug\net5.0\ShortForEachWithLambadas.AssemblyInfo.cs
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\obj\Debug\net5.0\ShortForEachWithLambadas.csproj.CoreCompileInputs.cache
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\obj\Debug\net5.0\ShortForEachWithLambadas.dll
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\obj\Debug\net5.0\ref\ShortForEachWithLambadas.dll
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\obj\Debug\net5.0\ShortForEachWithLambadas.pdb
+D:\Learning\#C\LINQ\ShortForEachWithLambadas\ShortForEachWithLambadas\obj\Debug\net5.0\ShortForEachWithLambadas.genruntimeconfig.cache
