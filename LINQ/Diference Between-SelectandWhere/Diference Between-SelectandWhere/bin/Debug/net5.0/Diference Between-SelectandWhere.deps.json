@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Diference Between-SelectandWhere/1.0.0": {
+        "runtime": {
+          "Diference Between-SelectandWhere.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diference Between-SelectandWhere/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

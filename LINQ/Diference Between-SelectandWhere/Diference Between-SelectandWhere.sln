@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diference Between-SelectandWhere", "Diference Between-SelectandWhere\Diference Between-SelectandWhere.csproj", "{4B0F1237-E3EE-4DB3-B4C7-0215908A0953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0F1237-E3EE-4DB3-B4C7-0215908A0953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0F1237-E3EE-4DB3-B4C7-0215908A0953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0F1237-E3EE-4DB3-B4C7-0215908A0953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0F1237-E3EE-4DB3-B4C7-0215908A0953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106B3106-5219-4BA8-B288-ED240D307325}
+	EndGlobalSection
+EndGlobal
