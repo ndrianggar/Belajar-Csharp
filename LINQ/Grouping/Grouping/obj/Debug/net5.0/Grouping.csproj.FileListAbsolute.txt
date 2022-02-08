@@ -1,0 +1,16 @@
+D:\Learning\#C\LINQ\Grouping\Grouping\bin\Debug\net5.0\Grouping.exe
+D:\Learning\#C\LINQ\Grouping\Grouping\bin\Debug\net5.0\Grouping.deps.json
+D:\Learning\#C\LINQ\Grouping\Grouping\bin\Debug\net5.0\Grouping.runtimeconfig.json
+D:\Learning\#C\LINQ\Grouping\Grouping\bin\Debug\net5.0\Grouping.runtimeconfig.dev.json
+D:\Learning\#C\LINQ\Grouping\Grouping\bin\Debug\net5.0\Grouping.dll
+D:\Learning\#C\LINQ\Grouping\Grouping\bin\Debug\net5.0\ref\Grouping.dll
+D:\Learning\#C\LINQ\Grouping\Grouping\bin\Debug\net5.0\Grouping.pdb
+D:\Learning\#C\LINQ\Grouping\Grouping\obj\Debug\net5.0\Grouping.csproj.AssemblyReference.cache
+D:\Learning\#C\LINQ\Grouping\Grouping\obj\Debug\net5.0\Grouping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\LINQ\Grouping\Grouping\obj\Debug\net5.0\Grouping.AssemblyInfoInputs.cache
+D:\Learning\#C\LINQ\Grouping\Grouping\obj\Debug\net5.0\Grouping.AssemblyInfo.cs
+D:\Learning\#C\LINQ\Grouping\Grouping\obj\Debug\net5.0\Grouping.csproj.CoreCompileInputs.cache
+D:\Learning\#C\LINQ\Grouping\Grouping\obj\Debug\net5.0\Grouping.dll
+D:\Learning\#C\LINQ\Grouping\Grouping\obj\Debug\net5.0\ref\Grouping.dll
+D:\Learning\#C\LINQ\Grouping\Grouping\obj\Debug\net5.0\Grouping.pdb
+D:\Learning\#C\LINQ\Grouping\Grouping\obj\Debug\net5.0\Grouping.genruntimeconfig.cache
