@@ -13,6 +13,29 @@ namespace CoreBookStoreWebAPI.Controllers
     public class BookController : ControllerBase
     {
 
+
+       [HttpGet]
+        //public ActionResult<List<Book>> GetAll()
+        //{
+        //}
+
+        public ActionResult<IEnumerable<Book>> Get()
+        {
+            BookStoreDataContext db = new BookStoreDataContext();
+            var items = db.Books;
+
+            if (items == null)
+            {
+                Console.WriteLine("data kosong");
+            }
+            else 
+            {
+        
+            }
+            return items;
+        }
+
+        [Route("Create Books ")]
         [HttpPost]
         public void Post([FromBody] Book item)
         {

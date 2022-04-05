@@ -1,0 +1,16 @@
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\obj\Debug\net5.0\Join Inner Join of Object.csproj.AssemblyReference.cache
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\obj\Debug\net5.0\Join Inner Join of Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\obj\Debug\net5.0\Join Inner Join of Object.AssemblyInfoInputs.cache
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\obj\Debug\net5.0\Join Inner Join of Object.AssemblyInfo.cs
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\obj\Debug\net5.0\Join Inner Join of Object.csproj.CoreCompileInputs.cache
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\bin\Debug\net5.0\Join Inner Join of Object.exe
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\bin\Debug\net5.0\Join Inner Join of Object.deps.json
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\bin\Debug\net5.0\Join Inner Join of Object.runtimeconfig.json
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\bin\Debug\net5.0\Join Inner Join of Object.runtimeconfig.dev.json
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\bin\Debug\net5.0\Join Inner Join of Object.dll
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\bin\Debug\net5.0\ref\Join Inner Join of Object.dll
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\bin\Debug\net5.0\Join Inner Join of Object.pdb
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\obj\Debug\net5.0\Join Inner Join of Object.dll
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\obj\Debug\net5.0\ref\Join Inner Join of Object.dll
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\obj\Debug\net5.0\Join Inner Join of Object.pdb
+D:\Learning\#C\LINQ\JoinInnerJoinOfObject\Join Inner Join of Object\Join Inner Join of Object\obj\Debug\net5.0\Join Inner Join of Object.genruntimeconfig.cache

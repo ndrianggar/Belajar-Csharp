@@ -3,8 +3,7 @@
     "",
     "\\CoreBookStore",
     "\\CoreBookStore\\CoreBookStoreWebAPI",
-    "\\CoreBookStore\\CoreBookStoreWebAPI\\Controllers",
-    "\\CoreBookStore\\CoreBookStoreWebAPI\\Models"
+    "\\CoreBookStore\\CoreBookStoreWebAPI\\Properties"
   ],
   "SelectedNode": "\\CoreBookStore\\CoreBookStore.sln",
   "PreviewInSolutionExplorer": false

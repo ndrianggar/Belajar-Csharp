@@ -18,60 +18,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CoreBookStoreWebAPI.Models
 {
-    //{
-    //    public class Startup
-    //    {
-    //        // constructor
-    //        public Startup(IConfiguration configuration)
-    //        {
-    //            Configuration = configuration;
-
-    //        }
-
-    //        public IConfiguration Configuration { get; }
-
-
-    //        // This method gets called by the runtime. Use this method to add services to the container.
-
-    //        public void ConfigureServices(IServiceCollection services)
-    //        {
-
-    //            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
-
-    //            //BookStoreDataContext.ConnectionString = Configuration.GetConnectionString("Default");
-    //        }
-
-    //        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-    //        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-    //        {
-    //            if (env.IsDevelopment())
-    //            {
-    //                app.UseDeveloperExceptionPage();
-    //            }
-    //            else
-    //            {
-    //                /*
-
-    //                     // The default HSTS value is 30 days. You may want to 
-    //                    change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    //                 */
-    //                app.UseHsts();
-    //            }
-
-    //            app.UseHttpsRedirection();
-    //            app.UseRouting();
-
-    //        }
-
-    //        //"A namespace does not directly contain members such as fields or methods"
-    //        // error ini menunjukkan bahwa methode dibuat diluar kelas yg ada -> masukkan methode ke kelas yg ada
-    //      }
-    //    }
-
-
-
-
-    public class BookStoreDataContext : DbContext
+   public class BookStoreDataContext : DbContext
     {
         public static string ConnectionString { get; set; }
 
@@ -79,10 +26,14 @@ namespace CoreBookStoreWebAPI.Models
        optionsBuilder)
         {
 
-            optionsBuilder.UseMySQL(ConnectionString);
+            optionsBuilder.UseSqlServer(ConnectionString);
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+           
+
+            //Categories
             modelBuilder.Entity<Category>().ToTable("categories");
             modelBuilder.Entity<Category>(entity =>
             {
@@ -94,6 +45,8 @@ namespace CoreBookStoreWebAPI.Models
             {
                 e.CategoryID
             });
+
+            //Authors
             modelBuilder.Entity<Author>().ToTable("authors");
             modelBuilder.Entity<Author>(entity =>
             {
@@ -103,6 +56,8 @@ namespace CoreBookStoreWebAPI.Models
                 entity.Property(e => e.Email).HasColumnName("email");
             });
             modelBuilder.Entity<Author>().HasKey(e => new { e.AuthorID });
+
+            //Book
             modelBuilder.Entity<Book>().ToTable("books");
             modelBuilder.Entity<Book>(entity =>
             {
@@ -117,6 +72,8 @@ namespace CoreBookStoreWebAPI.Models
                 entity.Property(e => e.Quantity).HasColumnName("qty");
             });
             modelBuilder.Entity<Book>().HasKey(e => new { e.ISBN });
+            
+            //Book_Authors
             modelBuilder.Entity<BookAuthor>().ToTable("books_authors");
             modelBuilder.Entity<BookAuthor>(entity =>
             {
