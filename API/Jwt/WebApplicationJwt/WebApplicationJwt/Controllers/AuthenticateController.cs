@@ -31,7 +31,6 @@ namespace WebApplicationJwt.Controllers
             _userManager = userManager;
             _roleManager = roleManager;
             _configuration = configuration;
-
         }
 
         [HttpPost]
@@ -64,10 +63,6 @@ namespace WebApplicationJwt.Controllers
             return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = result.ToString() });
         }
 
-
-
-
-
         [HttpPost]
         [Route("Register-admin")]
         public async Task<IActionResult> RegisterAdmin([FromBody] RegisterModel model)
@@ -95,17 +90,18 @@ namespace WebApplicationJwt.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = string.Join(", ", errors) });
             }
 
-                if (!await _roleManager.RoleExistsAsync(UserRoles.Admin))
-                    await _roleManager.CreateAsync(new IdentityRole(UserRoles.Admin));
+            if (!await _roleManager.RoleExistsAsync(UserRoles.Admin))
+                await _roleManager.CreateAsync(new IdentityRole(UserRoles.Admin));
 
-                if (!await _roleManager.RoleExistsAsync(UserRoles.User))
-                    await _roleManager.CreateAsync(new IdentityRole(UserRoles.User));
+            if (!await _roleManager.RoleExistsAsync(UserRoles.User))
+                await _roleManager.CreateAsync(new IdentityRole(UserRoles.User));
 
-                if (!await _roleManager.RoleExistsAsync(UserRoles.Admin))
-                    await _userManager.AddToRoleAsync(user, UserRoles.Admin);
+            if (!await _roleManager.RoleExistsAsync(UserRoles.Admin))
+                await _userManager.AddToRoleAsync(user, UserRoles.Admin);
 
-                return Ok(new Response { Status = "Success", Message = $"User Admin created Successfully {model.Username}" });
+            return Ok(new Response { Status = "Success", Message = $"User Admin created Successfully {model.Username}" });
         }
+
         [HttpPost]
         [Route("login")]
         public async Task<IActionResult> Login([FromBody] LoginModel model)
@@ -114,8 +110,8 @@ namespace WebApplicationJwt.Controllers
             if (user != null && await _userManager.CheckPasswordAsync(user, model.Password))
             {
                 var userRoles = await _userManager.GetRolesAsync(user);
-             
-                
+
+
                 var authClaims = new List<Claim>
                     {
                         new Claim(ClaimTypes.Name, user.UserName),
@@ -132,10 +128,10 @@ namespace WebApplicationJwt.Controllers
                 var token = new JwtSecurityToken(
                     issuer: _configuration["JWT:ValidIssuer"],
                     audience: _configuration["JWT:ValidAudience"],
-                    expires:DateTime.Now.AddHours(3),
+                    expires: DateTime.Now.AddHours(3),
                     claims: authClaims,
                     signingCredentials: new SigningCredentials(authSigningKey, SecurityAlgorithms.HmacSha256)
-                    ) ;
+                    );
                 return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token), expiration = token.ValidTo });
             }
             return Unauthorized();
@@ -147,27 +143,98 @@ namespace WebApplicationJwt.Controllers
         {
             var user = await _userManager.FindByNameAsync(model.Username);
             if (user == null)
-               return StatusCode(StatusCodes.Status404NotFound, new Response { Status = "Error", Message = "User does not exits" });
-            
-            if(string.Compare(model.NewPassword, model.ConfirmNewPassword) != 0)
-               return StatusCode(StatusCodes.Status400BadRequest, new Response { Status = "Error", Message = "The new password and confirm new password doest not match!" });
+                return StatusCode(StatusCodes.Status404NotFound, new Response { Status = "Error", Message = "User does not exits" });
+
+            if (string.Compare(model.NewPassword, model.ConfirmNewPassword) != 0)
+                return StatusCode(StatusCodes.Status400BadRequest, new Response { Status = "Error", Message = "The new password and confirm new password doest not match!" });
 
             var result = await _userManager.ChangePasswordAsync(user, model.CurrentPassword, model.NewPassword);
             if (!result.Succeeded)
-             {
-                 var errors = new List<string>();
+            {
+                var errors = new List<string>();
 
                 foreach (var error in result.Errors)
                 {
                     errors.Add(error.Description);
                 }
-               
+
                 return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "error", Message = string.Join(", ", errors) });
-             }     
-  
+            }
+
             return Ok(new Response { Status = "Succes", Message = "Password Successfully change" });
 
         }
 
+        [HttpPost]
+        [Route("reset-password-admin")]
+        public async Task<IActionResult> ResetPassordAdmin([FromBody] ResetPasswordAdminModel model)
+        {
+            var user = await _userManager.FindByNameAsync(model.Username);
+            if (user == null)
+                return StatusCode(StatusCodes.Status404NotFound, new Response { Status = "Error", Message = "User does not exits" });
+
+            if (string.Compare(model.NewPassword, model.ConfirmNewPassword) != 0)
+                return StatusCode(StatusCodes.Status400BadRequest, new Response { Status = "Error", Message = "The new password and confirm new password doest not match!" });
+
+            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+
+            var result = await _userManager.ResetPasswordAsync(user, token, model.NewPassword);
+            if(!result.Succeeded)
+            {
+                var errors = new List<string>();
+                foreach (var error in result.Errors)
+                {
+                    errors.Add(error.Description);
+                }
+                return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = string.Join(", ", errors) });
+            }
+
+            return Ok(new Response { Status = "Success", Message = "Password succesfully reset" });
+        }
+
+
+        [HttpPost]
+        [Route("reset-password-token")]
+        public async Task<IActionResult> ResetPasswordToken([FromBody] ResetPasswordToken model)
+        {
+            var user = await _userManager.FindByNameAsync(model.Username);
+            if (user == null)
+                return StatusCode(StatusCodes.Status404NotFound, new Response { Status = "Error", Message = "User does not exist" });
+
+            var token = await _userManager.GeneratePasswordResetTokenAsync(user);
+            // Best practice send token to user email and generate url, the following only for example
+            return Ok(new { token = token });
+
+        }
+        
+
+        [HttpPost]
+        [Route("reset-password")]
+        public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordModel model)
+        {
+            var user = await _userManager.FindByNameAsync(model.Username);
+
+            if (user == null)
+                return StatusCode(StatusCodes.Status404NotFound, new Response { Status = "Error", Message = "User does not exits" });
+
+            if (string.Compare(model.NewPassword, model.ConfirmNewPassword) != 0)
+                return StatusCode(StatusCodes.Status400BadRequest, new Response { Status = "Error", Message = "The new password and confirm new password doest not match!" });
+
+            if (string.IsNullOrEmpty(model.Token))
+                return StatusCode(StatusCodes.Status400BadRequest, new Response { Status = "Error", Message = "Invalid token" });
+            
+            var result = await _userManager.ResetPasswordAsync(user, model.Token, model.NewPassword);
+            var errors = new List<string>();
+            if (!result.Succeeded)
+            {
+                foreach (var error in result.Errors)
+                {
+                    errors.Add(error.Description);
+                }
+                return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = string.Join(", ", errors) });
+            }
+
+            return Ok(new Response { Status = "Succes", Message = "Password succesfully reseted" });
+        }
     }
 }

@@ -16,7 +16,7 @@ namespace WebApplicationJwt.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("ProductVersion", "5.0.9")
+                .HasAnnotation("ProductVersion", "5.0.15")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -215,6 +215,99 @@ namespace WebApplicationJwt.Migrations
                     b.ToTable("AspNetUsers");
                 });
 
+            modelBuilder.Entity("WebApplicationJwt.Models.Document", b =>
+                {
+                    b.Property<int>("DocumentId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("ContentType")
+                        .HasMaxLength(100)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(100)");
+
+                    b.Property<string>("FileName")
+                        .HasMaxLength(500)
+                        .IsUnicode(false)
+                        .HasColumnType("varchar(500)");
+
+                    b.Property<long?>("FileSize")
+                        .HasColumnType("bigint");
+
+                    b.HasKey("DocumentId");
+
+                    b.ToTable("Document");
+                });
+
+            modelBuilder.Entity("WebApplicationJwt.Models.Gender", b =>
+                {
+                    b.Property<int>("GenderId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("GenderId");
+
+                    b.ToTable("Gender");
+                });
+
+            modelBuilder.Entity("WebApplicationJwt.Models.Hobby", b =>
+                {
+                    b.Property<int>("HobbyId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("HobbyId");
+
+                    b.ToTable("Hobby");
+                });
+
+            modelBuilder.Entity("WebApplicationJwt.Models.Student", b =>
+                {
+                    b.Property<int>("StudentId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<string>("FirstName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("GenderId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("LastName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("StudentId");
+
+                    b.HasIndex("GenderId");
+
+                    b.ToTable("Student");
+                });
+
+            modelBuilder.Entity("WebApplicationJwt.Models.StudentHobby", b =>
+                {
+                    b.Property<int>("StudentId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("HobbyId")
+                        .HasColumnType("int");
+
+                    b.HasKey("StudentId", "HobbyId");
+
+                    b.HasIndex("HobbyId");
+
+                    b.ToTable("StudentHobby");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -264,6 +357,52 @@ namespace WebApplicationJwt.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("WebApplicationJwt.Models.Student", b =>
+                {
+                    b.HasOne("WebApplicationJwt.Models.Gender", "Gender")
+                        .WithMany("Students")
+                        .HasForeignKey("GenderId")
+                        .HasConstraintName("FK_Student_Gender");
+
+                    b.Navigation("Gender");
+                });
+
+            modelBuilder.Entity("WebApplicationJwt.Models.StudentHobby", b =>
+                {
+                    b.HasOne("WebApplicationJwt.Models.Hobby", "Hobby")
+                        .WithMany("StudentHobbies")
+                        .HasForeignKey("HobbyId")
+                        .HasConstraintName("FK_StudentHobby_Hobby")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("WebApplicationJwt.Models.Student", "Student")
+                        .WithMany("StudentHobbies")
+                        .HasForeignKey("StudentId")
+                        .HasConstraintName("FK_StudentHobby_Student")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Hobby");
+
+                    b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("WebApplicationJwt.Models.Gender", b =>
+                {
+                    b.Navigation("Students");
+                });
+
+            modelBuilder.Entity("WebApplicationJwt.Models.Hobby", b =>
+                {
+                    b.Navigation("StudentHobbies");
+                });
+
+            modelBuilder.Entity("WebApplicationJwt.Models.Student", b =>
+                {
+                    b.Navigation("StudentHobbies");
                 });
 #pragma warning restore 612, 618
         }

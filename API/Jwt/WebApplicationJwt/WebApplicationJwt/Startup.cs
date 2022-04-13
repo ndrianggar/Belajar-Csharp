@@ -17,6 +17,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography.Xml;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using WebApplicationJwt.DbContext;
 using WebApplicationJwt.IdentityAuth;
@@ -36,7 +37,10 @@ namespace WebApplicationJwt
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddControllers();
+            services.AddControllers()
+                //penambahan baris ini supaya tidak error System.InvalidOperationException: The Include path 'StudentHobbies->Student' results in a cycle. Cycles are not allowed in no-tracking queries; either use a tracking query or remove the cycle.
+
+                .AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
 
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
@@ -73,6 +77,11 @@ namespace WebApplicationJwt
                     ValidAudience = Configuration["JWT:ValidAudience"],
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["JWT:SecretKey"]))
                 };
+            });
+
+            services.Configure<DataProtectionTokenProviderOptions>(option =>
+            {
+                option.TokenLifespan = TimeSpan.FromHours(2);
             });
 
             services.AddSwaggerGen(c =>
@@ -129,6 +138,7 @@ namespace WebApplicationJwt
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {
